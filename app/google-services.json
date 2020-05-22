@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "223808540353",
+    "firebase_url": "https://upchat-c7cd8.firebaseio.com",
+    "project_id": "upchat-c7cd8",
+    "storage_bucket": "upchat-c7cd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223808540353:android:3910a6992d89df85248e40",
+        "android_client_info": {
+          "package_name": "com.mazur.upchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223808540353-v3t55a4cim64fn7nntn8jqg96ciu6q82.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mazur.upchat",
+            "certificate_hash": "41eb9e81d39231c9c366147ebb783111aa9011f0"
+          }
+        },
+        {
+          "client_id": "223808540353-2bnn04pcfgj0sha8cr6idgb4rsga34k4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqi5XRt8qbiajMXSZBW20gvLzdI5W9lUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223808540353-2bnn04pcfgj0sha8cr6idgb4rsga34k4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
